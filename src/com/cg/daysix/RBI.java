@@ -1,4 +1,6 @@
-package com.cg.dayseven;
+package com.cg.daysix;
+
+import com.cg.daysix.RBI;
 
 public class RBI {
 	private float result;
